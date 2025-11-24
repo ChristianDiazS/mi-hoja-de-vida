@@ -11,11 +11,13 @@ import Methodologies from './components/Methodologies';
 import Contact from './components/Contact';
 import Languages from './components/Languages';
 import Footer from './components/Footer';
+import { Analytics } from "@vercel/analytics/next"
 
 export default function App() {
   return (
     <div className="min-h-screen w-screen bg-linear-to-b from-[#071024] via-[#05060a] to-[#000000] text-gray-200 antialiased flex justify-center">
       <div className="w-full max-w-3xl px-4 sm:px-6 lg:px-8 py-12">
+        <Analytics/>
         <Header />
         <Hero />
         <AboutMe />

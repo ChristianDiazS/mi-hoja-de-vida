@@ -11,7 +11,7 @@ import Methodologies from './components/Methodologies';
 import Contact from './components/Contact';
 import Languages from './components/Languages';
 import Footer from './components/Footer';
-import { Analytics } from "@vercel/analytics/next"
+import { Analytics } from '@vercel/analytics/react';
 
 export default function App() {
   return (

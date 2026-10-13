@@ -25,7 +25,7 @@ export const EXPERIENCES = [
   },
   {
     title: "Administrador de Negocio | Distribuidora de Gas",
-    period: "01/03/2026 — 30/05/2025",
+    period: "01/03/2026 — 30/05/2026",
     category: "Servicio y Atención al cliente",
     description: "Responsable del control de stock integral y almacenamiento seguro de existencias en local comercial. Planificación, seguimiento y ejecución del cronograma de despachos y distribución a clientes finales. Gestión directa con proveedores, cotizaciones y negociación de compras de reposición de mercadería. Encargado del canal de ventas telefónicas, atención al cliente de alta prioridad y fidelización de cuentas comerciales. Ejecución del arqueo diario de caja, control de flujo de efectivo y administración interna del negocio. "
   },

@@ -165,5 +165,3 @@ Este proyecto es personal. Siéntete libre de adaptarlo como base para tu propio
 ---
 
 **Última actualización**: Noviembre 2025
-
-Hecho con ❤️ usando React y TailwindCSS

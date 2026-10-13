@@ -24,6 +24,18 @@ export const EXPERIENCES = [
     description: "Provisión de servicios de desarrollo web frontend utilizando React, Vite y TailwindCSS. Creación de interfaces de usuario responsivas y optimizadas para mejorar la experiencia del usuario."
   },
   {
+    title: "Administrador de Negocio | Distribuidora de Gas",
+    period: "01/03/2026 — 30/05/2025",
+    category: "Servicio y Atención al cliente",
+    description: "Responsable del control de stock integral y almacenamiento seguro de existencias en local comercial. Planificación, seguimiento y ejecución del cronograma de despachos y distribución a clientes finales. Gestión directa con proveedores, cotizaciones y negociación de compras de reposición de mercadería. Encargado del canal de ventas telefónicas, atención al cliente de alta prioridad y fidelización de cuentas comerciales. Ejecución del arqueo diario de caja, control de flujo de efectivo y administración interna del negocio. "
+  },
+  {
+    title: "Chofer — con Aplicativo | Uber",
+    period: "01/05/2025 — 30/11/2025",
+    category: "Servicio y Atención al cliente",
+    description: "Gestión autónoma de transporte privado de pasajeros bajo el uso intensivo de la plataforma digital. Optimización de rutas y tiempos mediante el uso de herramientas GPS en tiempo real. Mantenimiento de altos estándares de seguridad vial, orden y excelente trato al usuario."
+  },
+  {
     title: "Chofer — Servicios Generales KMB",
     period: "01/09/2024 — 01/02/2025",
     category: "Logística · Operaciones",

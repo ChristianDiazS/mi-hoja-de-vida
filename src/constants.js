@@ -19,7 +19,7 @@ Busco integrarme en equipos de trabajo con buen clima laboral que valoren el esf
 export const EXPERIENCES = [
   {
     title: "Desarrollador Web Frontend — Freelance",
-    period: "01/03/2025 — Al presente",
+    period: "01/03/2020 — Al presente",
     category: "Programación · Frontend",
     description: "Provisión de servicios de desarrollo web frontend utilizando React, Vite y TailwindCSS. Creación de interfaces de usuario responsivas y optimizadas para mejorar la experiencia del usuario."
   },
